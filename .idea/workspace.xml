@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6f0e12f-f874-4edc-84db-8a4f4fc29db8" name="Changes" comment="[feature] update readme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v2.0.0" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2TtWKdnF4gEvOSDs313u3RdH6O0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/lebedevm/Documents/hltb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/lebedevm/Documents/hltb/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "/Users/lebedevm/Documents/hltb/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/components/common" />
+      <recent name="$PROJECT_DIR$/frontend/pages/recommendations" />
+      <recent name="$PROJECT_DIR$/backend/api" />
+      <recent name="$PROJECT_DIR$/backend/cron" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/frontend/components/pages/recommendations" />
+      <recent name="$PROJECT_DIR$/frontend/components/pages/podcasts" />
+      <recent name="$PROJECT_DIR$/frontend/components/pages/recommendations/recommendations" />
+      <recent name="$PROJECT_DIR$/frontend/components/pages/podcasts/podcasts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="backend:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="backend:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="generate" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="preview" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="preview" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.generate (1)" />
+        <item itemvalue="npm.preview" />
+        <item itemvalue="npm.backend:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f0e12f-f874-4edc-84db-8a4f4fc29db8" name="Changes" comment="" />
+      <created>1691862794807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691862794807</updated>
+      <workItem from="1691862796070" duration="489000" />
+      <workItem from="1691911198434" duration="666000" />
+      <workItem from="1691911909188" duration="12000" />
+      <workItem from="1691911928847" duration="32000" />
+      <workItem from="1691911971269" duration="3101000" />
+      <workItem from="1691950102582" duration="2704000" />
+      <workItem from="1691952847434" duration="2533000" />
+      <workItem from="1692011140717" duration="18033000" />
+      <workItem from="1692361103106" duration="9709000" />
+      <workItem from="1692784371892" duration="2014000" />
+      <workItem from="1692791046150" duration="10000" />
+      <workItem from="1692796810081" duration="22266000" />
+      <workItem from="1692859907526" duration="14000" />
+      <workItem from="1692881598379" duration="26627000" />
+      <workItem from="1692946332802" duration="58000" />
+      <workItem from="1692947220702" duration="5000" />
+      <workItem from="1692974803284" duration="11791000" />
+      <workItem from="1693044349795" duration="1169000" />
+    </task>
+    <task id="LOCAL-00001" summary="start over">
+      <created>1691912166092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691912166092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create pg tables">
+      <created>1691934999540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691934999540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix creating table">
+      <created>1691935811655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691935811655</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first approach api">
+      <created>1691937374278</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691937374278</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cron for update streams and config">
+      <created>1691946093116</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691946093116</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cron for update recommendations">
+      <created>1691952755337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691952755337</updated>
+    </task>
+    <task id="LOCAL-00007" summary="bot restore (it's worked!)">
+      <created>1692013198738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692013198738</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add eslint and prettier">
+      <created>1692014444916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692014444916</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix create and update tables">
+      <created>1692042411352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692042411352</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix routing (?)">
+      <option name="closed" value="true" />
+      <created>1692372538170</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1692372538170</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix routing (?)">
+      <option name="closed" value="true" />
+      <created>1692372598077</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1692372598077</updated>
+    </task>
+    <task id="LOCAL-00032" summary="divide front and back">
+      <option name="closed" value="true" />
+      <created>1692373292093</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1692373292093</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix backend">
+      <option name="closed" value="true" />
+      <created>1692376434505</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1692376434505</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix backend">
+      <option name="closed" value="true" />
+      <created>1692376522732</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1692376522732</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix backend">
+      <option name="closed" value="true" />
+      <created>1692376795218</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1692376795218</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix backend">
+      <option name="closed" value="true" />
+      <created>1692377128783</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1692377128783</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix backend">
+      <option name="closed" value="true" />
+      <created>1692377229111</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1692377229111</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix backend">
+      <option name="closed" value="true" />
+      <created>1692377336365</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1692377336365</updated>
+    </task>
+    <task id="LOCAL-00039" summary="set webapp url">
+      <option name="closed" value="true" />
+      <created>1692377809637</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1692377809637</updated>
+    </task>
+    <task id="LOCAL-00040" summary="set env variable">
+      <option name="closed" value="true" />
+      <created>1692378064273</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1692378064273</updated>
+    </task>
+    <task id="LOCAL-00041" summary="fix bot inline">
+      <option name="closed" value="true" />
+      <created>1692389764164</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1692389764164</updated>
+    </task>
+    <task id="LOCAL-00042" summary="setup webApp and api">
+      <option name="closed" value="true" />
+      <created>1692441077020</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1692441077020</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix nuive-ui">
+      <option name="closed" value="true" />
+      <created>1692441650874</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1692441650874</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix nuive-ui">
+      <option name="closed" value="true" />
+      <created>1692443673786</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1692443673786</updated>
+    </task>
+    <task id="LOCAL-00045" summary="test api">
+      <option name="closed" value="true" />
+      <created>1692446238562</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1692446238562</updated>
+    </task>
+    <task id="LOCAL-00046" summary="create api">
+      <option name="closed" value="true" />
+      <created>1692472359852</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1692472359852</updated>
+    </task>
+    <task id="LOCAL-00047" summary="form in progress">
+      <option name="closed" value="true" />
+      <created>1692560996715</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1692560996715</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update youtube streams">
+      <option name="closed" value="true" />
+      <created>1692800200396</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1692800200396</updated>
+    </task>
+    <task id="LOCAL-00049" summary="podcast add form worked">
+      <option name="closed" value="true" />
+      <created>1692823709667</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1692823709667</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[feature] recommendation form">
+      <option name="closed" value="true" />
+      <created>1692907082195</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1692907082196</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[feature] add telegram.js and fix rawg api issue">
+      <option name="closed" value="true" />
+      <created>1692908828969</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1692908828969</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[fix] some minor fixes">
+      <option name="closed" value="true" />
+      <created>1692909325124</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1692909325124</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[fix] add telegram validation">
+      <option name="closed" value="true" />
+      <created>1692911132520</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1692911132520</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[fix] telegram validation">
+      <option name="closed" value="true" />
+      <created>1692911377485</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1692911377485</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[fix] telegram validation test">
+      <option name="closed" value="true" />
+      <created>1692911619285</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1692911619285</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[fix] telegram validation test">
+      <option name="closed" value="true" />
+      <created>1692911790630</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1692911790630</updated>
+    </task>
+    <task id="LOCAL-00057" summary="[fix] logs removed">
+      <option name="closed" value="true" />
+      <created>1692911904372</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1692911904372</updated>
+    </task>
+    <task id="LOCAL-00058" summary="[fix] don't update all table on each changes">
+      <option name="closed" value="true" />
+      <created>1692988561366</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1692988561366</updated>
+    </task>
+    <task id="LOCAL-00059" summary="[feature] add sync tables buttons">
+      <option name="closed" value="true" />
+      <created>1692990119088</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1692990119088</updated>
+    </task>
+    <task id="LOCAL-00060" summary="[fix] rate button size">
+      <option name="closed" value="true" />
+      <created>1692990330106</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1692990330106</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[feature] add subtitle">
+      <option name="closed" value="true" />
+      <created>1692990913315</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1692990913315</updated>
+    </task>
+    <task id="LOCAL-00062" summary="[fix] inline statistic">
+      <option name="closed" value="true" />
+      <created>1692991243429</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1692991243429</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[fix] inline default queries">
+      <option name="closed" value="true" />
+      <created>1692991422136</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1692991422136</updated>
+    </task>
+    <task id="LOCAL-00064" summary="[fix] layout width">
+      <option name="closed" value="true" />
+      <created>1692991801263</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1692991801263</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[feature] add streams update">
+      <option name="closed" value="true" />
+      <created>1693041927017</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1693041927017</updated>
+    </task>
+    <task id="LOCAL-00066" summary="[fix] reduce postgress data transfer">
+      <option name="closed" value="true" />
+      <created>1693043341533</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1693043341533</updated>
+    </task>
+    <task id="LOCAL-00067" summary="[fix] get stats error">
+      <option name="closed" value="true" />
+      <created>1693043657618</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1693043657618</updated>
+    </task>
+    <task id="LOCAL-00068" summary="[fix] release date inline response">
+      <option name="closed" value="true" />
+      <created>1693043828609</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1693043828609</updated>
+    </task>
+    <task id="LOCAL-00069" summary="[feature] update readme">
+      <option name="closed" value="true" />
+      <created>1693044224117</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1693044224117</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix nuive-ui" />
+    <MESSAGE value="test api" />
+    <MESSAGE value="create api" />
+    <MESSAGE value="form in progress" />
+    <MESSAGE value="update youtube streams" />
+    <MESSAGE value="podcast add form worked" />
+    <MESSAGE value="[feature] recommendation form" />
+    <MESSAGE value="[feature] add telegram.js and fix rawg api issue" />
+    <MESSAGE value="[fix] some minor fixes" />
+    <MESSAGE value="[fix] add telegram validation" />
+    <MESSAGE value="[fix] telegram validation" />
+    <MESSAGE value="[fix] telegram validation test" />
+    <MESSAGE value="[fix] logs removed" />
+    <MESSAGE value="[fix] don't update all table on each changes" />
+    <MESSAGE value="[feature] add sync tables buttons" />
+    <MESSAGE value="[fix] rate button size" />
+    <MESSAGE value="[feature] add subtitle" />
+    <MESSAGE value="[fix] inline statistic" />
+    <MESSAGE value="[fix] inline default queries" />
+    <MESSAGE value="[fix] layout width" />
+    <MESSAGE value="[feature] add streams update" />
+    <MESSAGE value="[fix] reduce postgress data transfer" />
+    <MESSAGE value="[fix] get stats error" />
+    <MESSAGE value="[fix] release date inline response" />
+    <MESSAGE value="[feature] update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feature] update readme" />
+  </component>
+  <component name="VueSettings">
+    <option name="innerServiceType" value="DISABLED" />
+  </component>
+</project>
