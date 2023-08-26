@@ -8,6 +8,8 @@ hltbRouter.get("/", async (req: Request, res: Response) => {
 
   const result = await getHLTB(title);
 
+  console.log(result)
+
   if (!result) {
     res.status(500).send("Something went wrong");
     return;
