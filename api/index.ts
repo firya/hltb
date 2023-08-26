@@ -12,7 +12,7 @@ apiRouter.use("/", async (req, res, next) => {
   const secretKey = (req.query.sekretKey as string) || "";
 
   if (process.env.SECRET_KEY !== secretKey) {
-    res.status(401).send("No initData");
+    res.status(401).send("No sekretKey");
     return;
   }
   next();
