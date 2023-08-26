@@ -15,6 +15,7 @@ export const getHLTB = async (title: string = "") => {
       gameplayCompletionist: result[0].gameplayCompletionist,
     };
   } catch (e) {
+    console.log(e)
     return false;
   }
 };

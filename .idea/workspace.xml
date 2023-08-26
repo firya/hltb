@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6f0e12f-f874-4edc-84db-8a4f4fc29db8" name="Changes" comment="[fix] git ignore">
+    <list default="true" id="b6f0e12f-f874-4edc-84db-8a4f4fc29db8" name="Changes" comment="[fix] add console.log">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/hltb.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/hltb.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/hltb.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/hltb.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/lebedevm/Documents/hltb",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/lebedevm/Documents/hltb/node_modules/prettier",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "ts.external.directory.path": "/Users/lebedevm/Documents/hltb/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lebedevm/Documents/hltb&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/lebedevm/Documents/hltb/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/lebedevm/Documents/hltb/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/frontend/components/common" />
@@ -161,7 +162,8 @@
       <workItem from="1692947220702" duration="5000" />
       <workItem from="1692974803284" duration="11791000" />
       <workItem from="1693044349795" duration="1169000" />
-      <workItem from="1693045526651" duration="2569000" />
+      <workItem from="1693045526651" duration="2585000" />
+      <workItem from="1693048324680" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="start over">
       <created>1691912166092</created>
@@ -225,14 +227,6 @@
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1692042411352</updated>
-    </task>
-    <task id="LOCAL-00035" summary="fix backend">
-      <option name="closed" value="true" />
-      <created>1692376795218</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1692376795218</updated>
     </task>
     <task id="LOCAL-00036" summary="fix backend">
       <option name="closed" value="true" />
@@ -546,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693046915746</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="[fix] add console.log">
+      <option name="closed" value="true" />
+      <created>1693048271849</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1693048271849</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="form in progress" />
     <MESSAGE value="update youtube streams" />
     <MESSAGE value="podcast add form worked" />
     <MESSAGE value="[feature] recommendation form" />
@@ -589,7 +590,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="[fix] secretKey" />
     <MESSAGE value="[fix] git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] git ignore" />
+    <MESSAGE value="[fix] add console.log" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] add console.log" />
   </component>
   <component name="VueSettings">
     <option name="innerServiceType" value="DISABLED" />
