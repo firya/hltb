@@ -5,6 +5,7 @@ export const getHLTB = async (title: string = "") => {
 
   try {
     const result = await hltbService.search(title);
+    console.log(result)
 
     if (result.length === 0) {
       return false;
